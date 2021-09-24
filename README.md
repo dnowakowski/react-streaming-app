@@ -1,3 +1,9 @@
+To get it started:
+-Install node
+-Get into api folder with command line and enter "npm start" (json server)
+-Run another cmd, get into rtmpserver and hit "npm start" (streaming server)
+-Run another cmd and run "npm start" (React client app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
