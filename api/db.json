@@ -1,27 +1,5 @@
 {
   "streams": [
-    {
-      "title": "I Created this Stream",
-      "description": "This was made by me!",
-      "userId": "102344677581980886469",
-      "id": 4
-    },
-    {
-      "title": "Unexpected Behavior",
-      "description": "Didn't expected that!",
-      "userId": "102344677581980886469",
-      "id": 5
-    },
-    {
-      "title": "Programmatic Navigation",
-      "description": "You should not see this on form page!",
-      "id": 6
-    },
-    {
-      "title": "React Stream",
-      "description": "DNOwakowski learnign react",
-      "userId": "102344677581980886469",
-      "id": 7
-    }
+   
   ]
 }
